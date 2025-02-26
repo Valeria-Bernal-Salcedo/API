@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valeria Bernal\\Desktop\\SEMESTRES\\SEMESTRE 4\\REDES DE COMPUTADORAS 1\\Practica_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74EA7A0A-85C2-464B-A3FD-B162F02C02E9}|Practica_API\\Practica_API.csproj|c:\\users\\valeria bernal\\desktop\\semestres\\semestre 4\\redes de computadoras 1\\practica_api\\practica_api\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EA7A0A-85C2-464B-A3FD-B162F02C02E9}|Practica_API\\Practica_API.csproj|solutionrelative:practica_api\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EA7A0A-85C2-464B-A3FD-B162F02C02E9}|Practica_API\\Practica_API.csproj|c:\\users\\valeria bernal\\desktop\\semestres\\semestre 4\\redes de computadoras 1\\practica_api\\practica_api\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74EA7A0A-85C2-464B-A3FD-B162F02C02E9}|Practica_API\\Practica_API.csproj|solutionrelative:practica_api\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EA7A0A-85C2-464B-A3FD-B162F02C02E9}|Practica_API\\Practica_API.csproj|c:\\users\\valeria bernal\\desktop\\semestres\\semestre 4\\redes de computadoras 1\\practica_api\\practica_api\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EA7A0A-85C2-464B-A3FD-B162F02C02E9}|Practica_API\\Practica_API.csproj|solutionrelative:practica_api\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "API.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria Bernal\\Desktop\\SEMESTRES\\SEMESTRE 4\\REDES DE COMPUTADORAS 1\\Practica_API\\Practica_API\\API.cs",
+              "RelativeDocumentMoniker": "Practica_API\\API.cs",
+              "ToolTip": "C:\\Users\\Valeria Bernal\\Desktop\\SEMESTRES\\SEMESTRE 4\\REDES DE COMPUTADORAS 1\\Practica_API\\Practica_API\\API.cs",
+              "RelativeToolTip": "Practica_API\\API.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:15:48.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria Bernal\\Desktop\\SEMESTRES\\SEMESTRE 4\\REDES DE COMPUTADORAS 1\\Practica_API\\Practica_API\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica_API\\Form1.cs",
+              "ToolTip": "C:\\Users\\Valeria Bernal\\Desktop\\SEMESTRES\\SEMESTRE 4\\REDES DE COMPUTADORAS 1\\Practica_API\\Practica_API\\Form1.cs*",
+              "RelativeToolTip": "Practica_API\\Form1.cs*",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:12:45.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Valeria Bernal\\Desktop\\SEMESTRES\\SEMESTRE 4\\REDES DE COMPUTADORAS 1\\Practica_API\\Practica_API\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica_API\\Form1.cs",
+              "ToolTip": "C:\\Users\\Valeria Bernal\\Desktop\\SEMESTRES\\SEMESTRE 4\\REDES DE COMPUTADORAS 1\\Practica_API\\Practica_API\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Practica_API\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:11:48.246Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
