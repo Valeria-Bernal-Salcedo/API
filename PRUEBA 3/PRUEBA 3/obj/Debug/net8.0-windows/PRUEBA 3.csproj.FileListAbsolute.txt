@@ -1,0 +1,28 @@
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\obj\Debug\net8.0-windows\PRUEBA 3.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\obj\Debug\net8.0-windows\PRUEBA_3.Form1.resources
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\obj\Debug\net8.0-windows\PRUEBA 3.csproj.GenerateResource.cache
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\obj\Debug\net8.0-windows\PRUEBA 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\obj\Debug\net8.0-windows\PRUEBA 3.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\obj\Debug\net8.0-windows\PRUEBA 3.AssemblyInfo.cs
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\obj\Debug\net8.0-windows\PRUEBA 3.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\bin\Debug\net8.0-windows\PRUEBA 3.exe
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\bin\Debug\net8.0-windows\PRUEBA 3.deps.json
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\bin\Debug\net8.0-windows\PRUEBA 3.runtimeconfig.json
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\bin\Debug\net8.0-windows\PRUEBA 3.dll
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\bin\Debug\net8.0-windows\PRUEBA 3.pdb
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\obj\Debug\net8.0-windows\PRUEBA 3.csproj.Up2Date
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\obj\Debug\net8.0-windows\PRUEBA 3.dll
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\obj\Debug\net8.0-windows\refint\PRUEBA 3.dll
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\obj\Debug\net8.0-windows\PRUEBA 3.pdb
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\obj\Debug\net8.0-windows\PRUEBA 3.genruntimeconfig.cache
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\obj\Debug\net8.0-windows\ref\PRUEBA 3.dll
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\bin\Debug\net8.0-windows\Autofac.dll
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\bin\Debug\net8.0-windows\Tweetinvi.Controllers.dll
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\bin\Debug\net8.0-windows\Tweetinvi.Core.dll
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\bin\Debug\net8.0-windows\Tweetinvi.Credentials.dll
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\bin\Debug\net8.0-windows\Tweetinvi.Logic.dll
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\bin\Debug\net8.0-windows\Tweetinvi.Security.dll
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\bin\Debug\net8.0-windows\Tweetinvi.Streams.dll
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\bin\Debug\net8.0-windows\Tweetinvi.WebLogic.dll
+C:\Users\ferna\source\repos\PRUEBA 3\PRUEBA 3\bin\Debug\net8.0-windows\Tweetinvi.dll
